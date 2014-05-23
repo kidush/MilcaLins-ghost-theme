@@ -1,6 +1,6 @@
 # Theme MilcaLins
 
-MilcaLins theme based on defult theme for [Ghost](http://github.com/tryghost/ghost/).
+MilcaLins theme based on default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
