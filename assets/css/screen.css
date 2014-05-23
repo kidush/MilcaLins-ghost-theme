@@ -520,6 +520,7 @@ margin on the iframe, cause it breaks stuff. */
     border-radius: 100%;
 }
 
+
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
