@@ -574,6 +574,8 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-title {
     margin:0;
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 400;
 }
 
 .post-title a {
@@ -780,7 +782,7 @@ margin on the iframe, cause it breaks stuff. */
    links remain at a fixed width the whole time */
 .post-footer .share {
     position: absolute;
-    top: 4rem;
+    top: 1rem;
     right: 0;
     width: 140px;
 }
