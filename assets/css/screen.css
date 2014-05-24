@@ -700,6 +700,11 @@ margin on the iframe, cause it breaks stuff. */
     padding: 2.5rem 0;
 }
 
+.post-content {
+    font-family: 'Junge', serif;
+    font-size: 1.8rem
+}
+
 /* Keep images centred and within the bounds of the post-width */
 .post-content img {
     display: block;
