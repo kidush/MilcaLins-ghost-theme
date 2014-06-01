@@ -526,6 +526,32 @@ margin on the iframe, cause it breaks stuff. */
     border-radius: 100%;
 }
 
+.menu {
+    margin-top: 20px;
+}
+
+.menu ul {  
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 5px;
+    position: relative;
+    left: -25px
+}
+
+.menu a {
+    font-family: 'Junge', serif;
+    font-weight: 400;
+    font-size: 2.0rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: #ff4471;
+}
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
